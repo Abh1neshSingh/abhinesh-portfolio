@@ -148,10 +148,10 @@ export default function ContactSection() {
           className="text-center mb-16"
         >
           <h2 className="text-4xl md:text-5xl font-bold text-gradient mb-6">
-            Let's Connect
+            Let&apos;s Connect
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            Ready to collaborate on innovative AI projects? Let's discuss how we can build the future together.
+            Ready to collaborate on innovative AI projects? Let&apos;s discuss how we can build the future together.
           </p>
         </motion.div>
 
@@ -167,10 +167,9 @@ export default function ContactSection() {
             <div>
               <h3 className="text-2xl font-bold text-white mb-6">Get in Touch</h3>
               <p className="text-gray-300 mb-8 leading-relaxed">
-                I'm always excited to discuss new opportunities, innovative projects, 
-                and potential collaborations in AI and data science. Whether you're 
-                looking for technical expertise or want to explore cutting-edge solutions, 
-                I'd love to hear from you.
+                I&apos;m always excited to discuss new opportunities, innovative projects, 
+                and potential collaborations in AI and data science. Whether you&apos;re looking for technical expertise or want to explore cutting-edge solutions, 
+                I&apos;d love to hear from you.
               </p>
             </div>
 

@@ -125,7 +125,7 @@ export default function AIResumeChat() {
             </div>
             <div>
               <h3 className="font-semibold text-white">AI Resume Assistant</h3>
-              <p className="text-xs text-gray-400">Ask about Abhinesh's background</p>
+              <p className="text-xs text-gray-400">Ask about Abhinesh&apos;s background</p>
             </div>
           </div>
         </div>
