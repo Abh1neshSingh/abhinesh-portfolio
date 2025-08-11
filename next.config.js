@@ -1,6 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
+    // Disable Next.js image optimization to avoid 502s on Render
+    // This serves images directly from the public/ folder
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: 'http',
