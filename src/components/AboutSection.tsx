@@ -240,7 +240,7 @@ const AboutSection = () => {
               {/* Profile Image */}
               <div className="absolute inset-2 rounded-full overflow-hidden border-2 border-white/20">
                 <Image
-                  src="/Adobe Express - file.png"
+                  src="/Adobe%20Express%20-%20file.png"
                   alt="Abhinesh Singh - Data Scientist & AI Engineer"
                   width={144}
                   height={144}
